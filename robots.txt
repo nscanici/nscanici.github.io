@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nscanici.github.io/sitemap.nscanici.gz
+Sitemap: https://nscanici.github.io/app/sitemap.nscanici.gz
+Sitemap: https://nscanici.github.io/assets/sitemap.nscanici.gz
+Sitemap: https://nscanici.github.io/css/sitemap.nscanici.gz
+Sitemap: https://nscanici.github.io/data/sitemap.nscanici.gz
+Sitemap: https://nscanici.github.io/includes/sitemap.nscanici.gz
+Sitemap: https://nscanici.github.io/item/sitemap.nscanici.gz
+Sitemap: https://nscanici.github.io/src/sitemap.nscanici.gz
